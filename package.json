@@ -14,7 +14,7 @@
   "license": "PROPRIETARY",
   "scripts": {
   "dev": "vite",
-  "build": "vite build",
+  "build": "npx vite build",
   "preview": "vite preview",
   "mock-server": "node mocks/server.js",
   "test": "jest --coverage",

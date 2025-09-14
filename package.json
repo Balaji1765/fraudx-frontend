@@ -13,8 +13,8 @@
   "author": "FraudX Team",
   "license": "PROPRIETARY",
   "scripts": {
-    "dev": "vite --host",
-    "build": "tsc && vite build",
+    "dev": "next dev",
+    "build": "next build",
     "preview": "vite preview",
     "mock-server": "node mocks/server.js",
     "test": "jest --coverage",
